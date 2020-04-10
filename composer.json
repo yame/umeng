@@ -1,5 +1,5 @@
 {
-    "name": "umengpusher/umeng",
+    "name": "hiyame/umeng",
     "description": "umeng for laravel",
     "keywords": [
         "laravel",
@@ -10,8 +10,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "houguangcong",
-            "email": "houguangcong@163.com"
+            "name": "hiyame",
+            "email": "zhengym912@qq.com"
         }
     ],
     "require": {
